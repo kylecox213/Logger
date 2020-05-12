@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroLogger", "RetroLogger\RetroLogger.csproj", "{50EE16DA-B220-40D6-B1D7-70D9966C9EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50EE16DA-B220-40D6-B1D7-70D9966C9EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EE16DA-B220-40D6-B1D7-70D9966C9EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EE16DA-B220-40D6-B1D7-70D9966C9EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EE16DA-B220-40D6-B1D7-70D9966C9EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51512FCF-0021-40D6-9614-8B3D2337EBB3}
+	EndGlobalSection
+EndGlobal
