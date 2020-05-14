@@ -10,6 +10,8 @@ namespace RetroLogger.Models
 		public int ID { get; set; }
 		public string Title { get; set; }
 		public int Year { get; set; }
+		public int Rank { get; set; }
+		public bool Clean { get; set; }
 		public bool Complete { get; set; }
 		public bool Beaten { get; set; }
 		public bool Duplicate { get; set; }

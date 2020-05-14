@@ -8,7 +8,7 @@ namespace RetroLogger.Models
 	public class Controller
 	{
 		public int ID { get; set; }
-		public int Model { get; set; }
+		public string Model { get; set; }
 		public string Type { get; set; }
 		public bool Functional { get; set; }
 
